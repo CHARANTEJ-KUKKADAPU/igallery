@@ -1,5 +1,5 @@
 # Ex.08 Design of Interactive Image Gallery
-## Date:
+## Date: 01-05-25
 
 ## AIM:
 To design a web application for an inteactive image gallery with minimum five images.
@@ -27,6 +27,7 @@ Publish the website in the given URL.
 ## PROGRAM :
 
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/44ddb88b-20de-4301-b308-e27b03d03982)
 
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
